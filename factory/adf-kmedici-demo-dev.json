@@ -1,0 +1,9 @@
+{
+	"name": "adf-kmedici-demo-dev",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3593cc66-c858-417e-8a5c-1a59a07550e4",
+		"tenantId": "9771b84a-5b42-462c-abb6-e57da2f7a0f5"
+	}
+}
